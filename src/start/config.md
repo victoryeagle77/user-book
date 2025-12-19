@@ -3,6 +3,13 @@
 Alumet and its plugins can be configured by modifying a [TOML](https://toml.io/en/) file.
 If you don't know TOML, it's a configuration format that aims to be "a config file for humans", easy to read and to modify.
 
+<div class="warning">
+
+For now, this User Book documents the last release of Alumet.
+To get the documentation of a previous release, [go to the GitHub repository](https://github.com/alumet-dev/alumet/), select the tag that corresponds to the version of Alumet, and navigate the folders to open the `README.md` of a plugin.
+
+</div>
+
 ## Where is the configuration file?
 
 ### Packaged Alumet agent
